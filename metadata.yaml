@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34256'
     url: http://www.gutenberg.org/2009/agents/34256
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31756#Screw-Thread-Cutting-by-the-Master-Screw-Method-since-1480
 gutenberg_bookshelf:
 - Manufacturing
 - Technology
